@@ -3,7 +3,9 @@
 <p>For the past 5 years, most of my works are WordPress related. From setting up the web server to theme development. As part of website maintenance I also do the updating of website content, adding or building a new plugin, and website optimization.</p> 
 <p>As the technology change faster, I can adapt to the new changes, for now i'm starting to work with Laravel Framework and VueJS. And planning to use Google’s Flutter, a Mobile UI Framework‎ for building iOS and Android application.</p>
 </div>
-<ul style="list-style-type: none;">
+
+<h3>Skills</h3>
+<ul id="skills">
   <li>WordPress</li>
   <li>PHP</li>
   <li>HTML</li>
