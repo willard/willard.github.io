@@ -3,3 +3,14 @@
 
 @import "{{ site.theme }}";
 
+ul#skills li {
+    font-size: 24px;
+}
+ul#skills {
+    background: #eee;
+    list-style: none;
+    padding: 10px;
+    border: 1px solid #aaaaaa;
+    border-radius: 3px;
+    text-align: center;
+}
